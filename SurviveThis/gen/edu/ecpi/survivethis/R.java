@@ -20,6 +20,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class color {
         public static final int black_overlay=0x7f040000;
+        public static final int blue=0x7f040002;
+        public static final int white=0x7f040001;
     }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
@@ -34,28 +36,76 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class drawable {
         public static final int desert=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
-        public static final int snow=0x7f020002;
-        public static final int swamp=0x7f020003;
-        public static final int water=0x7f020004;
-        public static final int woods=0x7f020005;
+        public static final int ecpilogo=0x7f020001;
+        public static final int hackathon3logo=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int snow=0x7f020004;
+        public static final int survivethis=0x7f020005;
+        public static final int swamp=0x7f020006;
+        public static final int water=0x7f020007;
+        public static final int woods=0x7f020008;
     }
     public static final class id {
-        public static final int action_settings=0x7f090006;
-        public static final int desert=0x7f090002;
-        public static final int environment=0x7f090000;
-        public static final int snow=0x7f090003;
-        public static final int swamp=0x7f090005;
-        public static final int water=0x7f090004;
-        public static final int woods=0x7f090001;
+        public static final int action_settings=0x7f090032;
+        public static final int desert=0x7f09000b;
+        public static final int desert_animalsDetail=0x7f090006;
+        public static final int desert_animalsHeader=0x7f090005;
+        public static final int desert_foodDetail=0x7f090004;
+        public static final int desert_foodHeader=0x7f090003;
+        public static final int desert_hydrationDetail=0x7f090002;
+        public static final int desert_hydrationHeader=0x7f090001;
+        public static final int desert_plantsDetail=0x7f090008;
+        public static final int desert_plantsHeader=0x7f090007;
+        public static final int environment=0x7f090009;
+        public static final int hackathonLogo=0x7f090019;
+        public static final int imgLogo=0x7f090018;
+        public static final int scrollView1=0x7f090000;
+        public static final int snow=0x7f09000c;
+        public static final int snow_animalsDetail=0x7f090014;
+        public static final int snow_animalsHeader=0x7f090013;
+        public static final int snow_foodDetail=0x7f090012;
+        public static final int snow_foodHeader=0x7f090011;
+        public static final int snow_hydrationDetail=0x7f090010;
+        public static final int snow_hydrationHeader=0x7f09000f;
+        public static final int snow_plantsDetail=0x7f090016;
+        public static final int snow_plantsHeader=0x7f090015;
+        public static final int survivethisLogo=0x7f090017;
+        public static final int swamp=0x7f09000e;
+        public static final int swamp_animalsDetail=0x7f09001f;
+        public static final int swamp_animalsHeader=0x7f09001e;
+        public static final int swamp_foodDetail=0x7f09001d;
+        public static final int swamp_foodHeader=0x7f09001c;
+        public static final int swamp_hydrationDetail=0x7f09001b;
+        public static final int swamp_hydrationHeader=0x7f09001a;
+        public static final int swamp_plantsDetail=0x7f090021;
+        public static final int swamp_plantsHeader=0x7f090020;
+        public static final int water=0x7f09000d;
+        public static final int water_animalsDetail=0x7f090027;
+        public static final int water_animalsHeader=0x7f090026;
+        public static final int water_foodDetail=0x7f090025;
+        public static final int water_foodHeader=0x7f090024;
+        public static final int water_hydrationDetail=0x7f090023;
+        public static final int water_hydrationHeader=0x7f090022;
+        public static final int water_plantsDetail=0x7f090029;
+        public static final int water_plantsHeader=0x7f090028;
+        public static final int woods=0x7f09000a;
+        public static final int woods_animalsDetail=0x7f09002f;
+        public static final int woods_animalsHeader=0x7f09002e;
+        public static final int woods_foodDetail=0x7f09002d;
+        public static final int woods_foodHeader=0x7f09002c;
+        public static final int woods_hydrationDetail=0x7f09002b;
+        public static final int woods_hydrationHeader=0x7f09002a;
+        public static final int woods_plantsDetail=0x7f090031;
+        public static final int woods_plantsHeader=0x7f090030;
     }
     public static final class layout {
         public static final int activity_desert=0x7f030000;
         public static final int activity_main=0x7f030001;
         public static final int activity_snow=0x7f030002;
-        public static final int activity_swamp=0x7f030003;
-        public static final int activity_water=0x7f030004;
-        public static final int activity_woods=0x7f030005;
+        public static final int activity_splash=0x7f030003;
+        public static final int activity_swamp=0x7f030004;
+        public static final int activity_water=0x7f030005;
+        public static final int activity_woods=0x7f030006;
     }
     public static final class menu {
         public static final int desert=0x7f080000;
@@ -67,13 +117,29 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
+        public static final int animals=0x7f06001c;
         public static final int app_name=0x7f060000;
         public static final int desert=0x7f060003;
+        public static final int desert_animals=0x7f06001f;
+        public static final int desert_food=0x7f060019;
+        public static final int desert_hydration=0x7f060013;
+        public static final int desert_plants=0x7f060025;
         public static final int dummy_button=0x7f06000e;
         public static final int dummy_content=0x7f06000f;
+        public static final int food=0x7f060016;
         public static final int hello_world=0x7f060002;
+        public static final int hydration=0x7f060010;
+        public static final int plants=0x7f060022;
         public static final int snow=0x7f060006;
+        public static final int snow_animals=0x7f06001e;
+        public static final int snow_food=0x7f060018;
+        public static final int snow_hydration=0x7f060012;
+        public static final int snow_plants=0x7f060024;
         public static final int swamp=0x7f060007;
+        public static final int swamp_animals=0x7f060021;
+        public static final int swamp_food=0x7f06001b;
+        public static final int swamp_hydration=0x7f060015;
+        public static final int swamp_plants=0x7f060027;
         public static final int title_activity_desert=0x7f060009;
         public static final int title_activity_main=0x7f06000d;
         public static final int title_activity_snow=0x7f06000a;
@@ -81,7 +147,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int title_activity_water=0x7f06000b;
         public static final int title_activity_woods=0x7f060008;
         public static final int water=0x7f060005;
+        public static final int water_animals=0x7f060020;
+        public static final int water_food=0x7f06001a;
+        public static final int water_hydration=0x7f060014;
+        public static final int water_plants=0x7f060026;
         public static final int woods=0x7f060004;
+        public static final int woods_animals=0x7f06001d;
+        public static final int woods_food=0x7f060017;
+        public static final int woods_hydration=0x7f060011;
+        public static final int woods_plants=0x7f060023;
     }
     public static final class style {
         /** 

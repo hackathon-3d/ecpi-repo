@@ -9,11 +9,11 @@
     <string name="water">Water</string>
     <string name="snow">Snow</string>
     <string name="swamp">Swamp</string>
-    <string name="title_activity_woods">WoodsActivity</string>
-    <string name="title_activity_desert">DesertActivity</string>
-    <string name="title_activity_snow">SnowActivity</string>
-    <string name="title_activity_water">WaterActivity</string>
-    <string name="title_activity_swamp">SwampActivity</string>
+    <string name="title_activity_woods">Woods</string>
+    <string name="title_activity_desert">Desert</string>
+    <string name="title_activity_snow">Snow</string>
+    <string name="title_activity_water">Water</string>
+    <string name="title_activity_swamp">Swamp</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>

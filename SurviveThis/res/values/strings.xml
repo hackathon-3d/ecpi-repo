@@ -34,7 +34,6 @@
     <string name="snow_hydration">    	Snow and ice must be melted and brought to boiling for 3 minutes to purify
         \n&#9734;IMPORTANT NOTE:\tDo not eat snow without melting first! This will bring down your body temperature and can lead to further dehydration.
         \nIf you are near the sea remember, the more crystalline and blue the ice is, the less salt it has.</string>
-
     <string name="food">Procuring Food:</string>
     <string name="woods_food">        Insects contain 65&#8211;80% protein, and are a great source of food.
 		\nAvoid eating:
@@ -54,12 +53,9 @@
         \n\t&#8226;Reindeer
         \n\t\t&#8226;Reindeer have been domesticated by arctic human populations as a source of food, clothing, and shelter.
         \n\t&#8226;Caribou
-        \n\t\t&#8226;Caribou have never been domesticated, but can make a good food source for a skilled hunter.
-        </string>
-
+        \n\t\t&#8226;Caribou have never been domesticated, but can make a good food source for a skilled hunter.</string>
     <string name="animals">Dangerous Animals:</string>
-    <string name="woods_animals">
-        Insects and Arachnids
+    <string name="woods_animals">        Insects and Arachnids
         \n\t&#8226;Scorpions are mostly nocturnal and rarely cause death but are venomous
         \n\t&#8226;Brown Recluse spiders can be recognized by the violin shaped light spot on the back of its body.  Rarely fatal, their poison causes excessive tissue degeneration that can lead to amputation if left untreated
         \n\t&#8226;Spiders of the widow family are small, dark, and can be recognized by the hourglass shaped white, red, or orange spots on its abdomen.
@@ -104,10 +100,8 @@
         \n\t&#8226;Rosary Pea
         \n\t&#8226;Strychnine Tree</string>
     <string name="snow_shelter">    	Snow is filled with pockets of air this means that building a shelter out of ice or snow will keep you warm, as it will be well insulated.</string>
-
     <string name="fire">How to make a fire</string>
-    <string name="title_activity_fire">FireActivity</string>
-    
+    <string name="title_activity_fire">How to make a fire</string>
     <string name="desert_hydration"> \t Staying hydrated is the most important thing when it comes to desert survival.
          The first thing you should do is remain calm. Freaking out will cause unnecessary sweating and energy loss.
           You will also want to keep all of your clothes, no matter how hot it gets. 
@@ -135,9 +129,7 @@
 &#8226;Completely cover the hole with plastic and weigh the sides with rocks and sand. \n
 &#8226;Place a rock in the center of the sheet, so it hangs down about 18 inches, directly over the container, to form an inverted cone. \n
 &#8226;Add more sand and rocks on the edges for stability. \n
-\t The moisture from the greenery will react with the heat of the sun to form condensation on the plastic. This water will run down the center of the sheet and into you container.
-        
-    </string>
+\t The moisture from the greenery will react with the heat of the sun to form condensation on the plastic. This water will run down the center of the sheet and into you container.</string>
     <string name="water_hydration">\t The key to surviving at sea relies heavily on how well you grab things before your officially, lost at sea. Grabbing things such as food, water, batteries, flares, tape, or a radio are of high importance. It is good to always have a Just In-case Bag.\n
         \t If you find your self lost at sea, don\'t drink the sea water. The bad part is, the only drinkable water you will have will be the water you brought with you, hopefully. Assuming you have some water, ration it out so that your not chugging it. Your main concern with being on the open ocean is the sun beating down on you. Try to construct some sort of awning that will protect you from the sun.    \t Dehydration is your biggest enemy. The following is a list of Dehydration problems from start to finish.
 &#8226;Heat Exhaustion\: The begging of the end. You will start to get light headed, and the biggest sign is cramping. \n
@@ -148,8 +140,7 @@
 &#8226;Fan yourself\n
 &#8226;Drink fresh water\n
 \t Your only hope for finding more water, or surviving is to find land or someone else. All you can do is keep calm, drink water, and drift.</string>
-
-<string name="desert_food"> \t Don\'t eat food unless you have water. These should be eaten together.
+    <string name="desert_food"> \t Don\'t eat food unless you have water. These should be eaten together.
          Food is filled with proteins, which require water to digest them, so eat and drink at the same time. 
          The worst kind of foods to eat when water is scarce are fatty foods, which require the most water to digest.
          Remember, water is far more important in a survival situation than food. You can survive for around 3 weeks without
@@ -166,8 +157,7 @@
                  &#8226;AVOID almond scent in woody parts and leaves \n
                   &#8226;AVOID grain heads with pink, purplish, or black spurs \n
                    &#8226;AVOID three-leaved growth patterns \n
-                   If questionable, boil them.
-             </string>
+                   If questionable, boil them.</string>
     <string name="swamp_food">\t Looking for food in a swamp is not a hard task, there are animals everywhere.
          The problem is not letting them eat you. The first thing you should do in any swamp survival situation is 
          make a weapon. You can do this by simply finding a sturdy stick and using a rock to file down a point. 
@@ -175,7 +165,7 @@
           This is mainly for people who have no hunting experience and would lose more energy and resources hunting,
            as opposed to setting a trap. Swamps generally have an abundance of fish and turtles as well as a variety of  
            birds . There is also an abundance of raccoons, opossums, muskrats, beavers, rabbits, and of course, alligators. Choosing the rite prey is all about what you know, and what your situation is. </string>
-  <string name="desert_animals">\t Animals in the desert are not unheard of.
+    <string name="desert_animals">\t Animals in the desert are not unheard of.
          There are a few however, that you should be aware of.
          &#8226;Rattlesnake\: Poisonous, but not always to adults. An exception is the Green Mojave rattlesnake, which is almost always deadly. \n
 &#8226;Scorpion\: The only scorpions in North American that are deadly are the small ones. The big ones hurt, but are not life-threatening. Most people get into trouble with scorpions because they don\'t check their shoes before putting them on. \n
@@ -195,7 +185,6 @@
 
 \t Alligators are not the only thing to be worried about. The Coral snake is a very poisonous snake that lives in the swamps of the South East. The snake also has a similar looking non-venomous friend called the king snake. Remember, Red on Yellow, Kill a Fellow, Red on Black, Friend of Jack!</string>
     <string name="water_animals">\t The only noteable animal to be worried of while lost at sea are sharks. Sharks are attracted to blood and disturbances in the water. Sharks are attracted to blood and disturbances in the water, that needed to be said twice.</string>
-    
     <string name="desert_plants">\t Picking which plan to eat or not may become a big deal.
          With the deserts heat pounding down on you, you may not be able to think straight.
           Knowing which plants to eat and not to eat could save your life. \n
@@ -205,7 +194,6 @@ The large trumpet-shaped flowers open in the evening. The flowers as well as the
  When eaten, the poisons cause diarrhea, nausea, and vomiting, along with abdominal pain.
   The fruit is the most dangerous. \n
 &#8226;Tree Tobacco\: Native to South America, but has adapted to life in the United States. Flowers may be white, green, red, or yellow. The flowers also open at night. The name might lead you to believe the leaves of Tree Tobacco are smoke-able, however, they are highly poisonous, leading to diarrhea, dizziness, altered vision and hearing. It may also cause auditory hallucinations.\n</string>
-    
     <string name="swamp_notes">\t Be wary of Jungle Rot. A fungal skin infection that results from constant moisture. To avoid this, take off your shoes, socks, and wet clothes. Allow your skin to dry and continuously change your socks. \n
 \t Some plants found in the swamp can be used for food or medicine. The following are a list of plants used for food\: \n
 &#8226;Overcup Oak\n
@@ -231,6 +219,34 @@ The large trumpet-shaped flowers open in the evening. The flowers as well as the
 \t Getting lost is a big problem when it comes to being in the desert. Always remember these key things to assist you in your journey\: \n
 &#8226; The sun rises in the east, and sets in the west. That should give you a pretty accurate sense of direction. \n
 &#8226;Sand dunes form at 90 degrees to the prevailing wind. If the prevailing wind is from the east, the dunes will run north to south.</string>
-       
-<string name="notes">Notes:</string>
+    <string name="notes">Notes:</string>
+    <string name="title_activity_about">About Us</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="title_activity_flash_light">Flash Light</string>
+    
+    <string name="about_header">About Us:</string>
+    <string name="about_us">\t We would like to express our appreciation for the time and resources Sparc has provided. A VERY big thank you to the volunteers who gave their time, and thank you ECPI for giving us this oppurtunity to participate in such a fun and great time!\n
+\n
+\tThank you!\n
+\t Survive This app Created by:\n Jake Johnson\n Michele Nicholas\n Eddie Lopez. 08/24/2013\n
+References:
+http://adventure.howstuffworks.com/how-to-survive-a-shipwreck1.htm\n
+http://www.artofmanliness.com/2008/04/29/9-ways-to-start-a-fire-without-matches/\n
+http://news.discovery.com/adventure/survival/desert-survival-8-simple-tips-that-could-save-your-life.htm\n
+http://www.wikihow.com/Walk-in-a-Swamp\n
+http://survivalblog.org/surviving-the-swamp/\n</string>
+
+
+<string name="fire_notes">\t There are different techniques you can use to make a fire with friction, the most important thing is the type of wood you use for the fire board and spindle. \n
+ The spingle is a stick you will use to spin in order to make friction between the stick and the fireboard. If you create enough friction between the spindle and the fireboard, you can create ember that can be used to create fire. Cottonwood, juniper, aspen, willow, cedar, cypress and walnut make the best fire board and spindle sets.\n
+ Before you can use the wood, you have to make sure it is completely dry. If the wood is not completly dry, it will not work.\n
+\t Filling a balloon or condom with water, you can transform these ordinary object into fire creating lenses. \n
+Fill the condom or balloon with water and tie off the end. You will want to make sure it is as spherical as possible. Don\'t make the inflated balloon or condom too big or it will distort the sunlight\'s focal point. Squeeze the balloon to find a shape that gives you a sharp circle of light. Try squeezing the condom in the middle to form two smaller lenses.\n
+Condoms and balloons both have a shorter focal length than an ordinary lens. Hold them 1-2 inches from your tinder.\n
+\t You can also start fire from a piece of ice. The ice must be clear, with no impurities. form a lens with whatever tools or assests you have available. Polish it with your hand, and walah! Fire started!</string>
+
+
+<string name="directionDescription">\nYou are currently facing:</string>
+<string name="coordinatesDescription">\nYour current GPS coordinates are:</string>
+
 </resources>

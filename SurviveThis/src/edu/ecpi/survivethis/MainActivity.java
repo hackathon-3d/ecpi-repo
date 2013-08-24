@@ -27,6 +27,12 @@ public class MainActivity extends Activity {
         swampBt.setOnClickListener(onClickListener);
         Button fireBt = (Button) findViewById(R.id.fire);
         fireBt.setOnClickListener(onClickListener);
+        Button aboutBt = (Button) findViewById(R.id.about);
+        aboutBt.setOnClickListener(onClickListener);
+        Button compassBt = (Button) findViewById(R.id.compass);
+        compassBt.setOnClickListener(onClickListener);
+        Button flashlightBt = (Button) findViewById(R.id.flashlight);
+        flashlightBt.setOnClickListener(onClickListener);
     }
 
 
@@ -63,6 +69,18 @@ public class MainActivity extends Activity {
 	    		case R.id.fire:
 	    			Intent fireIntent = new Intent(MainActivity.this, FireActivity.class);
 	    			startActivity(fireIntent);
+	    		break;
+	    		case R.id.about:
+	    			Intent aboutIntent = new Intent(MainActivity.this, AboutActivity.class);
+	    			startActivity(aboutIntent);
+	    		break;
+	    		case R.id.compass:
+	    			Intent compassIntent = new Intent(MainActivity.this, CompassActivity.class);
+	    			startActivity(compassIntent);
+	    		break;
+	    		case R.id.flashlight:
+	    			Intent flashlightIntent = new Intent(MainActivity.this, FlashLightActivity.class);
+	    			startActivity(flashlightIntent);
 	    		break;
     		}
         	

@@ -56,6 +56,18 @@
             android:name="edu.ecpi.survivethis.FireActivity"
             android:label="@string/title_activity_fire" >
         </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.AboutActivity"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.CompassActivity"
+            android:label="@string/title_activity_compass" >
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.FlashLightActivity"
+            android:label="@string/title_activity_flash_light" >
+        </activity>
     </application>
 
 </manifest>

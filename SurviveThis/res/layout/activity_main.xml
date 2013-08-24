@@ -73,7 +73,7 @@
         android:layout_marginBottom="3dp" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/compass"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -82,32 +82,22 @@
         android:background="@drawable/ic_device_access_location_searching" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/flashlight"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button1"
-        android:layout_alignBottom="@+id/button1"
-        android:layout_toRightOf="@+id/button1"
+        android:layout_alignBaseline="@+id/compass"
+        android:layout_alignBottom="@+id/compass"
+        android:layout_toRightOf="@+id/compass"
         android:background="@drawable/ic_device_access_brightness_low" />
-
-    <Button
-        android:id="@+id/button4"
-        style="?android:attr/buttonStyleSmall"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_toRightOf="@+id/button2"
-        android:background="@drawable/ic_location_place" />
 
     <Button
         android:id="@+id/about"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button4"
-        android:layout_alignBottom="@+id/button4"
-        android:layout_toRightOf="@+id/button4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/fire"
         android:background="@drawable/ic_action_help" />
 
 </RelativeLayout>

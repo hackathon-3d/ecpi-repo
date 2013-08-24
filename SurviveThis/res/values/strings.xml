@@ -17,12 +17,12 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
     <color name="white">#ffffff</color>
     <color name="blue">#0000ff</color>
-    
+
     <string name="hydration">Hydration:</string>
-    <string name="woods_hydration">
-        Springs are the best source of water in the woods, but are hard to come by and are not likely to actually be found.
+    <string name="woods_hydration">        Springs are the best source of water in the woods, but are hard to come by and are not likely to actually be found.
         \nRunning water is a good source of water because it is likely to have less sediment.
 		\nPlant Roots are a good source of water.  To prepare them:
 		\n\t&#8226;Dig or pry the roots out of the ground
@@ -31,21 +31,12 @@
 		\n\t&#8226;Catch the liquid in a container.
 		\n&#9734;IMPORTANT NOTE:\tAll water should be purified by brining it to a rolling boil and letting it boil for three minutes.
 		\n</string>
-    <string name="snow_hydration">
-        
-    	\n</string>
-    <string name="desert_hydration">
-        
-    	\n</string>
-    <string name="water_hydration">
-        
-    	\n</string>
-    <string name="swamp_hydration">
-        
-    	\n</string>
+    <string name="snow_hydration">    	\n</string>
+    <string name="desert_hydration">    	\n</string>
+    <string name="water_hydration">    	\n</string>
+    <string name="swamp_hydration">    	\n</string>
     <string name="food">Procuring Food:</string>
-    <string name="woods_food">
-        Insects contain 65&#8211;80% protein, and are a great source of food.
+    <string name="woods_food">        Insects contain 65&#8211;80% protein, and are a great source of food.
 		\nAvoid eating:
 		\n\t&#8226;Insects that bite or have stingers
 		\n\t&#8226;Insects that are hairy or bright colored
@@ -56,49 +47,23 @@
 		\nFish are also a good sorce of food if they are available.  Minnows can be eatten whole.
 		\n&#9734;Important Note:\tThe larger the mammal, the more damage it can do to you.  Avoid hunting large mammals unless well armed or experienced.
 		\n</string>
-    <string name="snow_food">
-        
-    	\n</string>
-    <string name="desert_food">
-        
-    	\n</string>
-    <string name="water_food">
-        
-    	\n</string>
-    <string name="swamp_food">
-        
-    	\n</string>
+    <string name="snow_food">    	\n</string>
+    <string name="desert_food">    	\n</string>
+    <string name="water_food">    	\n</string>
+    <string name="swamp_food">    	\n</string>
     <string name="animals">Dangerous Animals:</string>
-    <string name="woods_animals">
-        
-    	\n</string>
-    <string name="snow_animals">
-        
-    	\n</string>
-    <string name="desert_animals">
-        
-    	\n</string>
-    <string name="water_animals">
-        
-    	\n</string>
-    <string name="swamp_animals">
-        
-    	\n</string>
+    <string name="woods_animals">    	\n</string>
+    <string name="snow_animals">    	\n</string>
+    <string name="desert_animals">    	\n</string>
+    <string name="water_animals">    	\n</string>
+    <string name="swamp_animals">    	\n</string>
     <string name="plants">Dangerous Plants:</string>
-    <string name="woods_plants">
-        
-    	\n</string>
-    <string name="snow_plants">
-        
-    	\n</string>
-    <string name="desert_plants">
-        
-    	\n</string>
-    <string name="water_plants">
-        
-    	\n</string>
-    <string name="swamp_plants">
-        
-    	\n</string>
+    <string name="woods_plants">    	\n</string>
+    <string name="snow_plants">    	\n</string>
+    <string name="desert_plants">    	\n</string>
+    <string name="water_plants">    	\n</string>
+    <string name="swamp_plants">    	\n</string>
+    <string name="fire">How to make a fire</string>
+    <string name="title_activity_fire">FireActivity</string>
 
 </resources>

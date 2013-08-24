@@ -25,6 +25,8 @@ public class MainActivity extends Activity {
         waterBt.setOnClickListener(onClickListener);
         Button swampBt = (Button) findViewById(R.id.swamp);
         swampBt.setOnClickListener(onClickListener);
+        Button fireBt = (Button) findViewById(R.id.fire);
+        fireBt.setOnClickListener(onClickListener);
     }
 
 
@@ -57,6 +59,10 @@ public class MainActivity extends Activity {
 	    		case R.id.swamp:
 	    			Intent swampIntent = new Intent(MainActivity.this, SwampActivity.class);
 	    			startActivity(swampIntent);
+	    		break;
+	    		case R.id.fire:
+	    			Intent fireIntent = new Intent(MainActivity.this, FireActivity.class);
+	    			startActivity(fireIntent);
 	    		break;
     		}
         	

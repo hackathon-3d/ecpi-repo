@@ -62,6 +62,15 @@
         android:text="@string/swamp"
         android:textColor="#ffffff"
         android:layout_marginBottom="3dp" />
+    <Button
+        android:id="@+id/fire"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/swamp"
+        android:background="@drawable/fire"
+        android:text="@string/fire"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="3dp" />
     
 
 </RelativeLayout>

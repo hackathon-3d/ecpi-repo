@@ -9,28 +9,22 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/directionDescription"
+        android:text="COMPASS!"
         android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/why_you_no_work" />
 
     <TextView
         android:id="@+id/direction_current"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="DIRECTION"
+        android:layout_below="@+id/imageView1"
+        android:text="WHY YOU NO WORK??"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/coordinatesDescription"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
-
-    <TextView
-        android:id="@+id/coordinates_current"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="YOU ARE HERE"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
-
+    
 </LinearLayout>

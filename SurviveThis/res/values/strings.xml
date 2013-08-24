@@ -31,7 +31,9 @@
 		\n\t&#8226;Catch the liquid in a container.
 		\n&#9734;IMPORTANT NOTE:\tAll water should be purified by brining it to a rolling boil and letting it boil for three minutes.
 		\n</string>
-    <string name="snow_hydration">    	\n</string>
+    <string name="snow_hydration">    	Snow and ice must be melted and brought to boiling for 3 minutes to purify
+        \n&#9734;IMPORTANT NOTE:\tDo not eat snow without melting first! This will bring down your body temperature and can lead to further dehydration.
+        \nIf you are near the sea remember, the more crystalline and blue the ice is, the less salt it has.</string>
     <string name="desert_hydration">    	\n</string>
     <string name="water_hydration">    	\n</string>
     <string name="swamp_hydration">    	\n</string>
@@ -47,19 +49,32 @@
 		\nFish are also a good sorce of food if they are available.  Minnows can be eatten whole.
 		\n&#9734;Important Note:\tThe larger the mammal, the more damage it can do to you.  Avoid hunting large mammals unless well armed or experienced.
 		\n</string>
-    <string name="snow_food">    	\n</string>
+    <string name="snow_food">    	If near water, fish can still be caught - although it may be ice fishing that is needed.
+        \nAnimals that can be hunted:
+        \n\t&#8226;Musk Ox
+        \n\t\t&#8226;Musk Ox are one of the largest arctic mammals and are peaceful but defend their young. 
+        \n\t&#8226;Reindeer
+        \n\t\t&#8226;Reindeer have been domesticated by arctic human populations as a source of food, clothing, and shelter.
+        \n\t&#8226;Caribou
+        \n\t\t&#8226;Caribou have never been domesticated, but can make a good food source for a skilled hunter.
+        </string>
     <string name="desert_food">    	\n</string>
     <string name="water_food">    	\n</string>
     <string name="swamp_food">    	\n</string>
     <string name="animals">Dangerous Animals:</string>
     <string name="woods_animals">    	\n</string>
-    <string name="snow_animals">    	\n</string>
+    <string name="snow_animals">    	Polar Bears are capable of killing a seal with a single blow of its paw.
+        \nFoxes:
+        \n\t&#8226;Arctic foxes often follow polar bears to feed off of what the bears leave behind.
+        \nWolves:
+        \n\t&#8226;Arctic wolves are usually found near caribou and can kill and adult caribou with one bite to the neck.</string>
     <string name="desert_animals">    	\n</string>
     <string name="water_animals">    	\n</string>
     <string name="swamp_animals">    	\n</string>
     <string name="plants">Dangerous Plants:</string>
+    <string name="shelter">Shelter:</string>
     <string name="woods_plants">    	\n</string>
-    <string name="snow_plants">    	\n</string>
+    <string name="snow_shelter">    	Snow is filled with pockets of air this means that building a shelter out of ice or snow will keep you warm, as it will be well insulated.</string>
     <string name="desert_plants">    	\n</string>
     <string name="water_plants">    	\n</string>
     <string name="swamp_plants">    	\n</string>

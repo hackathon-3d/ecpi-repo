@@ -69,8 +69,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int snow_foodHeader=0x7f090012;
         public static final int snow_hydrationDetail=0x7f090011;
         public static final int snow_hydrationHeader=0x7f090010;
-        public static final int snow_plantsDetail=0x7f090017;
-        public static final int snow_plantsHeader=0x7f090016;
+        public static final int snow_shelterDetail=0x7f090017;
+        public static final int snow_shelterHeader=0x7f090016;
         public static final int survivethisLogo=0x7f090018;
         public static final int swamp=0x7f09000e;
         public static final int swamp_animalsDetail=0x7f090020;
@@ -127,26 +127,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int desert_animals=0x7f06001f;
         public static final int desert_food=0x7f060019;
         public static final int desert_hydration=0x7f060013;
-        public static final int desert_plants=0x7f060025;
+        public static final int desert_plants=0x7f060026;
         public static final int dummy_button=0x7f06000e;
         public static final int dummy_content=0x7f06000f;
-        public static final int fire=0x7f060028;
+        public static final int fire=0x7f060029;
         public static final int food=0x7f060016;
         public static final int hello_world=0x7f060002;
         public static final int hydration=0x7f060010;
         public static final int plants=0x7f060022;
+        public static final int shelter=0x7f060023;
         public static final int snow=0x7f060006;
         public static final int snow_animals=0x7f06001e;
         public static final int snow_food=0x7f060018;
         public static final int snow_hydration=0x7f060012;
-        public static final int snow_plants=0x7f060024;
+        public static final int snow_shelter=0x7f060025;
         public static final int swamp=0x7f060007;
         public static final int swamp_animals=0x7f060021;
         public static final int swamp_food=0x7f06001b;
         public static final int swamp_hydration=0x7f060015;
-        public static final int swamp_plants=0x7f060027;
+        public static final int swamp_plants=0x7f060028;
         public static final int title_activity_desert=0x7f060009;
-        public static final int title_activity_fire=0x7f060029;
+        public static final int title_activity_fire=0x7f06002a;
         public static final int title_activity_main=0x7f06000d;
         public static final int title_activity_snow=0x7f06000a;
         public static final int title_activity_swamp=0x7f06000c;
@@ -156,12 +157,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int water_animals=0x7f060020;
         public static final int water_food=0x7f06001a;
         public static final int water_hydration=0x7f060014;
-        public static final int water_plants=0x7f060026;
+        public static final int water_plants=0x7f060027;
         public static final int woods=0x7f060004;
         public static final int woods_animals=0x7f06001d;
         public static final int woods_food=0x7f060017;
         public static final int woods_hydration=0x7f060011;
-        public static final int woods_plants=0x7f060023;
+        public static final int woods_plants=0x7f060024;
     }
     public static final class style {
         /** 

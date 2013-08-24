@@ -4,7 +4,7 @@
     android:id="@+id/scrollView1"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" >
-    <LinearLayout 
+    <RelativeLayout 
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
 	    android:paddingBottom="@dimen/activity_vertical_margin"
@@ -19,11 +19,14 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:text="@string/hydration"
+	        android:layout_marginTop="50dp"
 	        android:textAppearance="?android:attr/textAppearanceLarge" />
 	    <TextView
 	        android:id="@+id/swamp_hydrationDetail"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/swamp_hydrationHeader"
+	        android:layout_marginTop="0dp"
 	        android:text="@string/swamp_hydration" />
 	    
 	    <TextView
@@ -31,11 +34,16 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:text="@string/food"
+	        android:layout_marginTop="50dp"
+	        android:visibility="invisible"
 	        android:textAppearance="?android:attr/textAppearanceLarge" />
 	    <TextView
 	        android:id="@+id/swamp_foodDetail"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/swamp_foodHeader"
+	        android:layout_marginTop="0dp"
+	        android:visibility="invisible"
 	        android:text="@string/swamp_food" />
 	    
 	    <TextView
@@ -43,11 +51,16 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:text="@string/animals"
+	        android:layout_marginTop="50dp"
+	        android:visibility="invisible"
 	        android:textAppearance="?android:attr/textAppearanceLarge" />
 	    <TextView
 	        android:id="@+id/swamp_animalsDetail"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/swamp_animalsHeader"
+	        android:layout_marginTop="0dp"
+	        android:visibility="invisible"
 	        android:text="@string/swamp_animals" />
 	    
 	    <TextView
@@ -55,12 +68,27 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:text="@string/notes"
+	        android:layout_marginTop="50dp"
+	        android:visibility="invisible"
 	        android:textAppearance="?android:attr/textAppearanceLarge" />
 	    <TextView
 	        android:id="@+id/swamp_NotesDetail"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/swamp_notesHeader"
+	        android:layout_marginTop="0dp"
+	        android:visibility="invisible"
 	        android:text="@string/swamp_notes" />
 	        
-	</LinearLayout>
+	    <Button
+	        android:id="@+id/btnSwampNext"
+	        android:layout_width="100dp"
+	        android:layout_height="wrap_content"
+	        android:layout_toRightOf="@+id/swamp_hydrationHeader"
+	        android:layout_marginTop="5dp"
+	        android:layout_marginLeft="80dp"
+	        android:layout_alignParentTop="true"
+	        android:text="&#8658;"
+	        android:onClick="onClick"/>
+	</RelativeLayout>
 </ScrollView>

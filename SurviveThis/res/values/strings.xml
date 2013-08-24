@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Survive This</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Survive This Environment!</string>
+    <string name="desert">Desert</string>
+    <string name="woods">Woods</string>
+    <string name="water">Water</string>
+    <string name="snow">Snow</string>
+    <string name="swamp">Swamp</string>
+    <string name="title_activity_woods">WoodsActivity</string>
+    <string name="title_activity_desert">DesertActivity</string>
+    <string name="title_activity_snow">SnowActivity</string>
+    <string name="title_activity_water">WaterActivity</string>
+    <string name="title_activity_swamp">SwampActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

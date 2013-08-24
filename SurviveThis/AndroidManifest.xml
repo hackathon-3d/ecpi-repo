@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.ecpi.survivethis"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="edu.ecpi.survivethis.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.WoodsActivity"
+            android:label="@string/title_activity_woods" >
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.DesertActivity"
+            android:label="@string/title_activity_desert" >
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.SnowActivity"
+            android:label="@string/title_activity_snow" >
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.WaterActivity"
+            android:label="@string/title_activity_water" >
+        </activity>
+        <activity
+            android:name="edu.ecpi.survivethis.SwampActivity"
+            android:label="@string/title_activity_swamp" >
+        </activity>
+    </application>
+
+</manifest>

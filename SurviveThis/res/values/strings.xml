@@ -62,7 +62,23 @@
     <string name="water_food">    	\n</string>
     <string name="swamp_food">    	\n</string>
     <string name="animals">Dangerous Animals:</string>
-    <string name="woods_animals">    	\n</string>
+    <string name="woods_animals">
+        Insects and Arachnids
+        \n\t&#8226;Scorpions are mostly nocturnal and rarely cause death but are venomous
+        \n\t&#8226;Brown Recluse spiders can be recognized by the violin shaped light spot on the back of its body.  Rarely fatal, their poison causes excessive tissue degeneration that can lead to amputation if left untreated
+        \n\t&#8226;Spiders of the widow family are small, dark, and can be recognized by the hourglass shaped white, red, or orange spots on its abdomen.
+        \n\t&#8226;Centipedes and millipedes are mostly small and harmless but can cause infection due to skin punctures from their sharp claws.  Brush them off in the direction they are traveling.
+        \n\t&#8226;Avoid Bees, Wasps, and Hornets and keep an eye out for meat&#8211;eating yellow jackets when cleaning and/or preparing meats
+        \n\t&#8226;Ticks are small, round arachnids that spread diseases that can be disabling or fatal.  However, time is on your side as it can takeup to six hours to transfer the disease organisms.
+        \nPoisonous Snakes
+        \n\t&#8226;American Copperhead
+        \n\t&#8226;Bushmaster
+        \n\t&#8226;Coral Snake
+        \n\t&#8226;Cottonmouth
+        \n\t&#8226;Fer-de-lance
+        \n\t&#8226;Rattlesnake
+        \nLarge Mammals
+        \n\tMake your presence known and make noise.  If you do come across any large mammals, don\'t make eye contact as it could be precieved as a challenge or threat.</string>
     <string name="snow_animals">    	Polar Bears are capable of killing a seal with a single blow of its paw.
         \nFoxes:
         \n\t&#8226;Arctic foxes often follow polar bears to feed off of what the bears leave behind.
@@ -73,7 +89,27 @@
     <string name="swamp_animals">    	\n</string>
     <string name="plants">Dangerous Plants:</string>
     <string name="shelter">Shelter:</string>
-    <string name="woods_plants">    	\n</string>
+    <string name="woods_plants">    	Avoid all mushrooms - some can cause death very quickly and some have no known antidote
+        \n\t&#8226;Mushroom poisoning can affect both your gastrointestinal tract and your central nervous system.
+        \nSome plants can cause dermatitis poisoning:
+        \n\t&#8226;Cowhage
+        \n\t&#8226;Poison Ivy
+        \n\t&#8226;Poison Oak
+        \n\t&#8226;Poison Sumac
+        \n\t&#8226;Rengas Tree
+        \n\t&#8226;Trumpet Vine
+        \n Other plants can be poisonous if eaten:
+        \n\t&#8226;Castor Bean
+        \n\t&#8226;Chinaberry
+        \n\t&#8226;Death Camas
+        \n\t&#8226;Lantana
+        \n\t&#8226;Manchineel
+        \n\t&#8226;Oleander
+        \n\t&#8226;Pangi
+        \n\t&#8226;Physic nut
+        \n\t&#8226;poison and water hemlocks
+        \n\t&#8226;Rosary Pea
+        \n\t&#8226;Strychnine Tree</string>
     <string name="snow_shelter">    	Snow is filled with pockets of air this means that building a shelter out of ice or snow will keep you warm, as it will be well insulated.</string>
     <string name="desert_plants">    	\n</string>
     <string name="water_plants">    	\n</string>

@@ -34,9 +34,7 @@
     <string name="snow_hydration">    	Snow and ice must be melted and brought to boiling for 3 minutes to purify
         \n&#9734;IMPORTANT NOTE:\tDo not eat snow without melting first! This will bring down your body temperature and can lead to further dehydration.
         \nIf you are near the sea remember, the more crystalline and blue the ice is, the less salt it has.</string>
-    <string name="desert_hydration">    	\n</string>
-    <string name="water_hydration">    	\n</string>
-    <string name="swamp_hydration">    	\n</string>
+
     <string name="food">Procuring Food:</string>
     <string name="woods_food">        Insects contain 65&#8211;80% protein, and are a great source of food.
 		\nAvoid eating:
@@ -58,9 +56,7 @@
         \n\t&#8226;Caribou
         \n\t\t&#8226;Caribou have never been domesticated, but can make a good food source for a skilled hunter.
         </string>
-    <string name="desert_food">    	\n</string>
-    <string name="water_food">    	\n</string>
-    <string name="swamp_food">    	\n</string>
+
     <string name="animals">Dangerous Animals:</string>
     <string name="woods_animals">
         Insects and Arachnids
@@ -84,9 +80,6 @@
         \n\t&#8226;Arctic foxes often follow polar bears to feed off of what the bears leave behind.
         \nWolves:
         \n\t&#8226;Arctic wolves are usually found near caribou and can kill and adult caribou with one bite to the neck.</string>
-    <string name="desert_animals">    	\n</string>
-    <string name="water_animals">    	\n</string>
-    <string name="swamp_animals">    	\n</string>
     <string name="plants">Dangerous Plants:</string>
     <string name="shelter">Shelter:</string>
     <string name="woods_plants">    	Avoid all mushrooms - some can cause death very quickly and some have no known antidote
@@ -111,10 +104,133 @@
         \n\t&#8226;Rosary Pea
         \n\t&#8226;Strychnine Tree</string>
     <string name="snow_shelter">    	Snow is filled with pockets of air this means that building a shelter out of ice or snow will keep you warm, as it will be well insulated.</string>
-    <string name="desert_plants">    	\n</string>
-    <string name="water_plants">    	\n</string>
-    <string name="swamp_plants">    	\n</string>
+
     <string name="fire">How to make a fire</string>
     <string name="title_activity_fire">FireActivity</string>
+    
+    <string name="desert_hydration"> \t Staying hydrated is the most important thing when it comes to desert survival.
+         The first thing you should do is remain calm. Freaking out will cause unnecessary sweating and energy loss.
+          You will also want to keep all of your clothes, no matter how hot it gets. 
+          Your body sweats to keep your body cool, the sun evaporates the sweat and in return you sweat more. 
+          Keeping clothes on you, especially your head, will keep the sweat on your and make you sweat less than having no clothes.
+           It is of the utmost importance to save every drop of water because water is what you need to live.
+            Along with keeping clothes on, you will want to immediately find shelter to shade you from the head. Weather you have to build a temporary shelter, or find a dune or bush big enough to cast a shadow. The water you do have you must ration. This means taking small sips to conserve. When there is little left, use it to moisten your lips. \n
+         Note\: Chew on small pebbles, rocks, or grass which will make your mouth release saliva.
+         \n Being thirsty is not a good guide to tell when you need water.
+          You will not drink enough water and become a heat casulty.
+           The basic idea for drinking water is \: \n  &#8226; Temperatures below 38 degrees C, drink 0.5 liters of water every hour. \n
+             &#8226;Temperatures above 38 degrees C, drink 1 liter of water every hour. \n  
+           \t  Drinking water in intervals helps your body maintain its temperature and lower sweating.
+             Avoid salty foods at all costs unless you have a dependable source of water.
+             Salt will draw more water from your body to process, which is unneeded. </string>
+    <string name="swamp_hydration">\t Hydrate, hydrate, hydrate. We cannot discuss enough the importance staying hydrating in any situation. Especially, a survival situation. Follow the basic rules of staying hydrated by keeping your clothes on, and either wearing a hat or wrapping something around your head. You must put a barrier between the sun and you so that all of your sweat is not evaporated. This leads to you sweating more and losing energy and valuable water your body needs.\n
+\t Finding water in a swamp might sound easier said then done. Just because you are surrounded by water does not mean it is drinkable. The water in swamps is rarely ok to drink. You must purify almost all of the water you will find in a swamp-like environment. The best places to look for drinkable water is the base of plants, and the vines hanging from trees. If you must purify water, here are a few tips to help you out. \n
+&#8226;Boil \n
+&#8226;Take a plastic bag and tire one end shut so water can barley drip out. Fill with rocks and pebbles that appear clean, and let the water run through it. The fineness of the gravel will have to be changed and cycled to get the purest water. \n
+\t   A Solar Still is created with a piece of plastic sheeting and a container to collect water. \n
+&#8226;Find an area that gets sunlight for most of the day. \n
+&#8226;Dig a bowl-shaped hole about 3 feet across and 2 feet deep. \n
+&#8226;Place the container in the center of the hole. \n
+&#8226;Surround the container with as much greenery as you can. \n
+&#8226;Completely cover the hole with plastic and weigh the sides with rocks and sand. \n
+&#8226;Place a rock in the center of the sheet, so it hangs down about 18 inches, directly over the container, to form an inverted cone. \n
+&#8226;Add more sand and rocks on the edges for stability. \n
+\t The moisture from the greenery will react with the heat of the sun to form condensation on the plastic. This water will run down the center of the sheet and into you container.
+        
+    </string>
+    <string name="water_hydration">\t The key to surviving at sea relies heavily on how well you grab things before your officially, lost at sea. Grabbing things such as food, water, batteries, flares, tape, or a radio are of high importance. It is good to always have a Just In-case Bag.\n
+        \t If you find your self lost at sea, don\'t drink the sea water. The bad part is, the only drinkable water you will have will be the water you brought with you, hopefully. Assuming you have some water, ration it out so that your not chugging it. Your main concern with being on the open ocean is the sun beating down on you. Try to construct some sort of awning that will protect you from the sun.    \t Dehydration is your biggest enemy. The following is a list of Dehydration problems from start to finish.
+&#8226;Heat Exhaustion\: The begging of the end. You will start to get light headed, and the biggest sign is cramping. \n
+&#8226;Heat Stroke\: Signs of Heat Stroke include elevated body temperature, confused mental state, rapid heartbeat, shallow breathing, along with headaches and nausea let you know your going down the wrong path. Heat stroke can quickly lead to death. \n
+\t If you\'re suffering from any of these, try the following\: \n
+&#8226;Get in the shade \n
+&#8226;Pat your skin with a damp towel\n
+&#8226;Fan yourself\n
+&#8226;Drink fresh water\n
+\t Your only hope for finding more water, or surviving is to find land or someone else. All you can do is keep calm, drink water, and drift.</string>
 
+<string name="desert_food"> \t Don\'t eat food unless you have water. These should be eaten together.
+         Food is filled with proteins, which require water to digest them, so eat and drink at the same time. 
+         The worst kind of foods to eat when water is scarce are fatty foods, which require the most water to digest.
+         Remember, water is far more important in a survival situation than food. You can survive for around 3 weeks without
+          food. When looking for food, be careful. The desert is full of venomous reptiles, insects, and plants. If you have to eat try eating cacti fruits. They are the main edibles of the desert. All are safe to eat. Reptiles are relatively easy to catch, if you find one.
+         You must make sure you thoroughly cook the animal though. The most common to the desert would be the Gila monster.
+          Care must be taken in cooking because they commonly harbor salmonella virus in their mouth and teeth.
+           The tail meat is the best tasting and easiest to prepare. It is recommended to trap a dinner than hunt it.
+            Requires less effort and you may need the energy. \n The following are suggestions of things NOT to eat \: \n
+            &#8226;AVOID plants with milky sap \n
+             &#8226;AVOID all red beans \n
+              &#8226;AVOID bitter or soapy tastes \n
+               &#8226;AVOID spines, fine hairs, or thorns \n
+                &#8226;AVOID dill, carrot, parsnip, or parsleylike foliage \n
+                 &#8226;AVOID almond scent in woody parts and leaves \n
+                  &#8226;AVOID grain heads with pink, purplish, or black spurs \n
+                   &#8226;AVOID three-leaved growth patterns \n
+                   If questionable, boil them.
+             </string>
+    <string name="swamp_food">\t Looking for food in a swamp is not a hard task, there are animals everywhere.
+         The problem is not letting them eat you. The first thing you should do in any swamp survival situation is 
+         make a weapon. You can do this by simply finding a sturdy stick and using a rock to file down a point. 
+         It is recommended though that you use the weapon for defense and use a trap to catch food.
+          This is mainly for people who have no hunting experience and would lose more energy and resources hunting,
+           as opposed to setting a trap. Swamps generally have an abundance of fish and turtles as well as a variety of  
+           birds . There is also an abundance of raccoons, opossums, muskrats, beavers, rabbits, and of course, alligators. Choosing the rite prey is all about what you know, and what your situation is. </string>
+  <string name="desert_animals">\t Animals in the desert are not unheard of.
+         There are a few however, that you should be aware of.
+         &#8226;Rattlesnake\: Poisonous, but not always to adults. An exception is the Green Mojave rattlesnake, which is almost always deadly. \n
+&#8226;Scorpion\: The only scorpions in North American that are deadly are the small ones. The big ones hurt, but are not life-threatening. Most people get into trouble with scorpions because they don\'t check their shoes before putting them on. \n
+&#8226;Gila Monster\: the Gila Monster is a large lizard. They won\'t mess with you unless you harass them. \n
+&#8226;Mountain Lion and Cougars\: They have been known to stalk small framed, short people. Such as kids or small adults. They live in areas where the desert connects to mountains or other landmasses. \n
+&#8226;Javelina\: A wild boar that will run away as fast as it can. Unless, you see a group of them or baby boars. Run. \n
+&#8226;Bees\: They will generally leave you alone unless you mess with their hive. \n
+&#8226;Centipedes\: A nasty bite, but not life-threatening. Most Centipede bites result when people are clearing woods or brush and disturb their habitat.  </string>
+    <string name="swamp_animals">\t How to avoid a run in with a GATOR. \n
+ If you ever find yourself wading through the awesome terrain of a swamp, you might want to know these tricks. \n
+&#8226;Find a long, solid stick. \n
+&#8226;Make sure it is at least 4 feet in length. \n
+&#8226;Extend the stick in front of you while going through the water. This will make your presence known. A startled alligator will likely attack. If he knows you\'re there, there is a chance he may leave. \n
+&#8226;Before crossing any body\'s of water, wait until midday when alligators are least active. Cross at the narrowest point and watch prior for an hour to spot movement.\n
+&#8226;You may use your stick to fend off an alligator to an extent \n
+&#8226;The easiest way to track an alligator is to watch for bubbles coming out of the water.\n
+
+\t Alligators are not the only thing to be worried about. The Coral snake is a very poisonous snake that lives in the swamps of the South East. The snake also has a similar looking non-venomous friend called the king snake. Remember, Red on Yellow, Kill a Fellow, Red on Black, Friend of Jack!</string>
+    <string name="water_animals">\t The only noteable animal to be worried of while lost at sea are sharks. Sharks are attracted to blood and disturbances in the water. Sharks are attracted to blood and disturbances in the water, that needed to be said twice.</string>
+    
+    <string name="desert_plants">\t Picking which plan to eat or not may become a big deal.
+         With the deserts heat pounding down on you, you may not be able to think straight.
+          Knowing which plants to eat and not to eat could save your life. \n
+&#8226;Datura\: A poisonous plant—not just the leaves or the flowers or the fruit or the stem, but all of it. 
+The large trumpet-shaped flowers open in the evening. The flowers as well as the leaves are about six inches long and the plant itself is about two feet fall. \n
+&#8226;Silverleaf Nightshade\: Both the leaves and fruit of this tree are poisonous, containing the toxic solanine.
+ When eaten, the poisons cause diarrhea, nausea, and vomiting, along with abdominal pain.
+  The fruit is the most dangerous. \n
+&#8226;Tree Tobacco\: Native to South America, but has adapted to life in the United States. Flowers may be white, green, red, or yellow. The flowers also open at night. The name might lead you to believe the leaves of Tree Tobacco are smoke-able, however, they are highly poisonous, leading to diarrhea, dizziness, altered vision and hearing. It may also cause auditory hallucinations.\n</string>
+    
+    <string name="swamp_notes">\t Be wary of Jungle Rot. A fungal skin infection that results from constant moisture. To avoid this, take off your shoes, socks, and wet clothes. Allow your skin to dry and continuously change your socks. \n
+\t Some plants found in the swamp can be used for food or medicine. The following are a list of plants used for food\: \n
+&#8226;Overcup Oak\n
+&#8226;Water Oak\n
+&#8226;Pond Pine \n
+&#8226;Cabbage Palm\n
+&#8226;Hickory\n
+&#8226;Hazelnut\n
+\t These plants may be used for medicinal purposes\:
+&#8226;Sweet flag\n
+&#8226;Sassafras\n
+&#8226;Willow\n
+&#8226;Bog Bean\n
+&#8226;Sundew\n
+&#8226;Saw Palmetto\n
+
+\tThe following are toxic plants\n
+&#8226;Poison-Sumac\n
+&#8226;Poisontree\n
+&#8226;Poison-Ivy\n
+\t You should never touch these plants or burn them. Inhaling the smoke can create a rash on the lungs and even cause respiratory failure.</string>
+    <string name="desert_notes">\t Sleeping in the desert is not as fun as it sounds. If your traveling during the day, you need to make sure you stop early enough to find shelter. It will feel incredibly cold at night after being in the sun all day. You don\'t have to worry about sleeping off the ground as much as with other terrains. However, finding a place to stay warm at night will be more then enough. Consider using any terrain features such as rocks or brush to assist you in making your stay.\n
+\t Getting lost is a big problem when it comes to being in the desert. Always remember these key things to assist you in your journey\: \n
+&#8226; The sun rises in the east, and sets in the west. That should give you a pretty accurate sense of direction. \n
+&#8226;Sand dunes form at 90 degrees to the prevailing wind. If the prevailing wind is from the east, the dunes will run north to south.</string>
+       
+<string name="notes">Notes:</string>
 </resources>

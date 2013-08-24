@@ -51,16 +51,16 @@
 	        android:text="@string/swamp_animals" />
 	    
 	    <TextView
-	        android:id="@+id/swamp_plantsHeader"
+	        android:id="@+id/swamp_notesHeader"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
-	        android:text="@string/plants"
+	        android:text="@string/notes"
 	        android:textAppearance="?android:attr/textAppearanceLarge" />
 	    <TextView
-	        android:id="@+id/swamp_plantsDetail"
+	        android:id="@+id/swamp_NotesDetail"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
-	        android:text="@string/swamp_plants" />
+	        android:text="@string/swamp_notes" />
 	        
 	</LinearLayout>
 </ScrollView>
